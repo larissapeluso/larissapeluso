@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hi there, I'm Larissa Peluso 👋
+
+[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/larissapeluso)](https://github.com/larissapeluso)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/larissa-rozza-peluso/)](https://www.linkedin.com/in/larissa-rozza-peluso/)
+[![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/LarissaPeluso)](https://twitter.com/LarissaPeluso)
 
 <!--
 **larissapeluso/larissapeluso** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
