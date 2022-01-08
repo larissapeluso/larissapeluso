@@ -43,7 +43,7 @@
 ### ☁ Cloud
 
 <p>
-  <a href="https://trello.com/larissarozzapeluso">
+  <a href="https://trello.com/invite/b/VANBIysL/4722b9d23b31430a01cecec108127c14/chatbot-capacita">
     <img
       height="55"
       src="https://logosmarcas.net/wp-content/uploads/2021/03/Trello-Logo-2021-presente.jpg"
