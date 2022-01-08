@@ -26,6 +26,15 @@
 
 ### 🤖 Artificial Intelligence
 
+<p>
+  <a href="https://miro.com/app/board/o9J_lXYOAhc=/?invite_link_id=569581883249">
+    <img
+      height="45"
+      src="https://lanum.com.br/images/logos/miro.svg"
+    />
+  </a>
+</p>
+
 <!--
 **larissapeluso/larissapeluso** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
