@@ -24,12 +24,15 @@
   <br/>
 </details>
 
+<br/> 
+
 ### 🤖 Artificial Intelligence
 
+#### Conversational Design of the Chatbot Project developed in the Capacita MDT Program
 <p>
   <a href="https://miro.com/app/board/o9J_lXYOAhc=/?invite_link_id=569581883249">
     <img
-      height="45"
+      height="30"
       src="https://lanum.com.br/images/logos/miro.svg"
     />
   </a>
