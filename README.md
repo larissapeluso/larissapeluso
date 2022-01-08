@@ -61,8 +61,8 @@
     </thead>
     <tbody>
       <tr>
-      	 <td><a href="https://github.com/larissapeluso/robotics-for-the-study-of-algorithms"><b>Dissertação</b></a></td>
-      	 <td><a href="https://github.com/larissapeluso/robotics-for-the-study-of-algorithms"><img src="https://github-readme-stats.vercel.app/api/pin/?username=larissapeluso&repo=robotics-for-the-study-of-algorithms&icon_color=79ff97&text_color=9f9f9f&bg_color=151515"/></td>
+      	 <td><a href="https://github.com/larissapeluso/dissertacao"><b>Dissertação</b></a></td>
+      	 <td><a href="https://github.com/larissapeluso/dissertacao"><img src="https://github-readme-stats.vercel.app/api/pin/?username=larissapeluso&repo=dissertacao&icon_color=79ff97&text_color=9f9f9f&bg_color=151515"/></td>
       </tr>
     </tbody>
   </table>
