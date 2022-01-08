@@ -1,6 +1,6 @@
  <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=larissapeluso.visitor-badgee&color=green&style=flat-square">
 
-## Hi there, I'm Larissa Peluso
+## Hi there, I'm Larissa Rozza Peluso
 
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/larissapeluso)](https://github.com/larissapeluso)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/larissa-rozza-peluso/)](https://www.linkedin.com/in/larissa-rozza-peluso/)
@@ -20,7 +20,7 @@
                                                                                  
 <details>	
   <summary><b>  <a href="#"><img src="https://img.icons8.com/ios/50/000000/github--v2.png"/></a> Github Status</b></summary>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=larissapeluso&show_icons=true&count_private=true&theme=radical&hide_border=true&show_icons=true&custom_title=Larissa%20Peluso's%20Github%20Status"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=larissapeluso&show_icons=true&count_private=true&theme=radical&hide_border=true&show_icons=true&custom_title=Larissa%20Rozza%20Peluso's%20Github%20Status"/>
   <br/>
 </details>
 
