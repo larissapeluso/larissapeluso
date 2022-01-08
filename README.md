@@ -33,7 +33,7 @@
     <thead align="center">
       <tr border: none;>
 	       <td><b><a href="#"></a>Projects</b></td>
-        <td><b><a href="#"></a>Repository</b></td>
+        <td><b><a href="#"></a>Repositories</b></td>
       </tr>
     </thead>
     <tbody>
@@ -56,7 +56,7 @@
     <thead align="center">
       <tr border: none;>
 	       <td><b><a href="#"></a>Projects</b></td>
-        <td><b><a href="#"></a>Repository</b></td>
+        <td><b><a href="#"></a>Repositories</b></td>
       </tr>
     </thead>
     <tbody>
