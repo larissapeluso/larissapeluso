@@ -4,7 +4,7 @@
 
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/larissapeluso)](https://github.com/larissapeluso)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/larissa-rozza-peluso/)](https://www.linkedin.com/in/larissa-rozza-peluso/)
-[![Whatsapp Badge](https://img.shields.io/badge/-Whatsapp-4CA143?style=flat-square&labelColor=4CA143&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=5547984196191&text=Olá!)](https://api.whatsapp.com/send?phone=5584999122284&text=Olá!)
+[![Whatsapp Badge](https://img.shields.io/badge/-Whatsapp-4CA143?style=flat-square&labelColor=4CA143&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=5547984196191&text=Olá!)](https://api.whatsapp.com/send?phone=5547984196191&text=Olá!)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:larissarozza@gmail.com)](mailto:larissarozza@gmail.com)
 
 <!-- <img src="https://user-images.githubusercontent.com/12896018/147711344-0b319afa-ac61-4a8b-a321-f14f1add0635.gif" align="right" width="150px">
