@@ -11,7 +11,7 @@
  -->
  
 <p align="left">
-  <a href="https://readme-typing-svg.herokuapp.com?color=0353B1&lines=Bachelor+in+Information+Systems;Developer+Chatbots+ALTU;Computer+Science+Student)]></a>
+  <a href="https://readme-typing-svg.herokuapp.com?color=DC143C&lines=Bachelor+in+Information+Systems;Developer+Chatbots+ALTU;Computer+Science+Student)]></a>
 </p>
            
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=DC143C&lines=Bachelor+in+Information+Systems;Developer+Chatbots+ALTU;Computer+Science+Student)](https://git.io/typing-svg)
@@ -39,11 +39,11 @@
     <tbody>
       <tr>
       	 <td><a href="https://github.com/larissapeluso/robotics-for-the-study-of-algorithms"><b>TCC</b></a></td>
-      	 <td><a href="https://github.com/larissapeluso/robotics-for-the-study-of-algorithms"><img src="https://github-readme-stats.vercel.app/api/pin/?username=larissapeluso&repo=robotics-for-the-study-of-algorithms&icon_color=79ff97&text_color=9f9f9f&bg_color=151515"/></td>
+      	 <td><a href="https://github.com/larissapeluso/robotics-for-the-study-of-algorithms"><img src="https://github-readme-stats.vercel.app/api/pin/?username=larissapeluso&repo=robotics-for-the-study-of-algorithms&icon_color=79ff97&text_color=FFC0CB&bg_color=90001F"/></td>
       </tr>
       <tr>
         <td><a href="https://github.com/larissapeluso/sample-phonegap-audio"><b>Programação para Dispositivos Móveis</b></a></td>
-      	 <td><a href="https://github.com/larissapeluso/sample-phonegap-audio"><img src="https://github-readme-stats.vercel.app/api/pin/?username=larissapeluso&repo=sample-phonegap-audio&icon_color=79ff97&text_color=9f9f9f&bg_color=151515"/></td>
+      	 <td><a href="https://github.com/larissapeluso/sample-phonegap-audio"><img src="https://github-readme-stats.vercel.app/api/pin/?username=larissapeluso&repo=sample-phonegap-audio&icon_color=79ff97&text_color=FFC0CB&bg_color=90001F"/></td>
       </tr>
     </tbody>
   </table>
@@ -62,7 +62,7 @@
     <tbody>
       <tr>
       	 <td><a href="https://github.com/larissapeluso/dissertacao"><b>Dissertação</b></a></td>
-      	 <td><a href="https://github.com/larissapeluso/dissertacao"><img src="https://github-readme-stats.vercel.app/api/pin/?username=larissapeluso&repo=dissertacao&icon_color=79ff97&text_color=9f9f9f&bg_color=151515"/></td>
+      	 <td><a href="https://github.com/larissapeluso/dissertacao"><img src="https://github-readme-stats.vercel.app/api/pin/?username=larissapeluso&repo=dissertacao&icon_color=79ff97&text_color=FFC0CB&bg_color=90001F"/></td>
       </tr>
     </tbody>
   </table>
