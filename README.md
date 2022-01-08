@@ -38,6 +38,19 @@
   </a>
 </p>
 
+<br/>
+
+### ☁ Cloud
+
+<p>
+  <a href="https://trello.com/larissarozzapeluso">
+    <img
+      height="55"
+      src="https://logosmarcas.net/wp-content/uploads/2021/03/Trello-Logo-2021-presente.jpg"
+    />
+  </a>
+</p>
+
 <!--
 **larissapeluso/larissapeluso** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
