@@ -26,6 +26,32 @@
 
 <br/> 
 
+### <a href="#"><img src="https://img.icons8.com/ios/24/000000/code.png"/></a> My Academic Projects
+<details>
+  <summary><b> <a href="#"><img src="https://img.icons8.com/material/24/000000/graduation-cap--v1.png"/></a> Graduation</b></summary>
+  <table>
+    <thead align="center">
+      <tr border: none;>
+	       <td><b><a href="#"></a>Projects</b></td>
+        <td><b><a href="#"></a>Summary</b></td>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+      	 <td><a href="https://github.com/larissapeluso/robotics-for-the-study-of-algorithms"><b>TCC</b></a></td>
+      	 <td><a href="https://github.com/larissapeluso/robotics-for-the-study-of-algorithms"><img src="https://github-readme-stats.vercel.app/api/pin/?username=larissapeluso&repo=robotics-for-the-study-of-algorithms&icon_color=79ff97&text_color=9f9f9f&bg_color=151515"/></td>
+      </tr>
+      <tr>
+        <td><a href="https://github.com/larissapeluso/sample-phonegap-audio"><b>Programação para Dispositivos Móveis</b></a></td>
+      	 <td><a href="https://github.com/larissapeluso/sample-phonegap-audio"><img src="https://github-readme-stats.vercel.app/api/pin/?username=larissapeluso&repo=sample-phonegap-audio&icon_color=79ff97&text_color=9f9f9f&bg_color=151515"/></td>
+      </tr>
+    </tbody>
+  </table>
+  <br />
+</details>
+
+<br/>
+
 ### 🤖 Artificial Intelligence
 
 #### Conversational Design of the Chatbot Project developed in the Capacita MDT Program
