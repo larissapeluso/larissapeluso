@@ -24,11 +24,7 @@
   <br/>
 </details>
 
-<br/> 
-
 ![Snake animation](https://github.com/larissapeluso/larissapeluso/blob/output/github-contribution-grid-snake.svg)
-
-<br/>
 
 ### <a href="#"><img src="https://img.icons8.com/ios/24/000000/code.png"/></a> My Academic Projects
 <details>
