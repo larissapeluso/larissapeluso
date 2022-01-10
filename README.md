@@ -6,6 +6,7 @@
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/larissa-rozza-peluso/)](https://www.linkedin.com/in/larissa-rozza-peluso/)
 [![Whatsapp Badge](https://img.shields.io/badge/-Whatsapp-4CA143?style=flat-square&labelColor=4CA143&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=5547984196191&text=Olá!)](https://api.whatsapp.com/send?phone=5547984196191&text=Olá!)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:larissarozza@gmail.com)](mailto:larissarozza@gmail.com)
+[![Hotmail Badge](https://img.shields.io/badge/-Hotmail-0078D4?style=flat-square&logo=microsoft-outlook&logoColor=white&link=mailto:larissa.rozza1993@hotmail.com)](mailto:larissa.rozza1993@hotmail.com)
 
 <!-- <img src="https://user-images.githubusercontent.com/12896018/147711344-0b319afa-ac61-4a8b-a321-f14f1add0635.gif" align="right" width="150px">
  -->
