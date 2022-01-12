@@ -22,7 +22,7 @@
 <details>	
   <summary><b>  <a href="#"><img src="https://img.icons8.com/ios/50/000000/github--v2.png"/></a> Github Stats</b></summary>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=larissapeluso&show_icons=true&count_private=true&theme=radical&hide_border=true&show_icons=true&custom_title=Larissa%20Rozza%20Peluso's%20Github%20Stats"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=larissapeluso&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=larissapeluso&layout=compact&langs_count=7&theme=radical"/>
   <br/>
 </details>
 
